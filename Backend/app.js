@@ -8,7 +8,7 @@ const app = express();
 
 app.use(cors(
   {
-    origin:["https://deploy-mern-1whq.vercel.app"],
+    origin:["https://book-application-bfmfdw3xx-ajays-projects-7dbf4b1c.vercel.app"],
     methods:["POST","GET"],
     credentials:true
   }
